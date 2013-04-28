@@ -1,0 +1,9 @@
+Network simulation using MPI
+
+Given topology. Initially the nodes can communicate only with their neighbours.
+
+Step 1: every node discovers the entire topology and creates a
+	his routing table
+Step 2: creating a message delivering system
+
+Step 3: choosing a leader
